@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 Hello, I'm Daniela!
 
 - **I build full-stack JavaScript applications:** responsive UIs, reliable APIs and automated pipelines.  
@@ -44,7 +42,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 
-</div>
 
 <br>
 
