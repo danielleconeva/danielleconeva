@@ -3,6 +3,7 @@
 -   **I build full-stack JavaScript applications:** responsive UIs, reliable APIs and automated pipelines.
 -   **Currently pursuing** a professional degree in Software Engineering at Software University.
 -   **I care about** maintainable architecture, clear commits, and delivering real value — while continuously improving my engineering practices, test coverage and developer tooling.
+<br>
 
 ## 💻 Tech Stack and Tools:
 
@@ -19,20 +20,20 @@
 <img align="left" title="Vite" alt="Vite" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" />
 
 <img align="left" title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" title="Express" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" title="Express" alt="Express" width="40px" src="https://cdn.simpleicons.org/express/FFFFFF" />
 <img align="left" title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 
 <img align="left" title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" title="GitHub" alt="GitHub" width="40px" src="https://cdn.simpleicons.org/github/FFFFFF" />
 <img align="left" title="GitLab" alt="GitLab" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
 <img align="left" title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" title="GitHub Actions" alt="GitHub Actions" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
 <img align="left" title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
-<img align="left" title="Vercel" alt="Vercel" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />
+<img align="left" title="Vercel" alt="Vercel" width="40px" src="https://cdn.simpleicons.org/vercel/FFFFFF" />
 
-<br><br>
+<br><br><br>
 
 ## 🌐 How to reach me:
 
@@ -43,8 +44,8 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 <br>
+<br>
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=danielleconeva&theme=dracula&hide_border=true" height="180" />
