@@ -33,7 +33,7 @@
 <img align="left" title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
 <img align="left" title="Vercel" alt="Vercel" width="40px" src="https://cdn.simpleicons.org/vercel/FFFFFF" />
 
-<br clear="both" /><br /><br />
+<br clear="both" /><br />
 &nbsp;
 
 ## 🌐 How to reach me:
