@@ -1,4 +1,4 @@
-# 💫 Hello, I'm Daniela!
+# 💫 Hello, I'm Daniella!
 
 -   **I build full-stack JavaScript applications:** responsive UIs, reliable APIs and automated pipelines.
 -   **Currently pursuing** a professional degree in Software Engineering at Software University.
