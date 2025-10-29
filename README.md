@@ -5,7 +5,7 @@
 -   **I care about** maintainable architecture, clear commits, and delivering real value — while continuously improving my engineering practices, test coverage and developer tooling.
 <br>
 
-🌐 Explore my [**Personal Portfolio**](https://daniellaconeva.vercel.app)
+Explore my [**Personal Portfolio**](https://daniellaconeva.vercel.app)
 <br><br>
 
 ## 💻 Tech Stack and Tools:
